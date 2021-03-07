@@ -8,7 +8,7 @@ Important!
 
 Usage:
 
-Add both classes to your workspace, add the thing above and register in ModInstances.
+Add both classes to your workspace, add the thing above and register in ModInstances. (I have excluded the package and imports)
 
 Optional: Tweak max displayed items and display time to preference.(see comments in code)
 
