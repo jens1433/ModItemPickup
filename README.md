@@ -2,7 +2,8 @@
 
 Mod that adds a list of picked up itemstacks with the stack size. Uses Eric's draggable hud base and event manager.
 
-Important!.
+Important!
+
 In EntityItem.java in onCollideWithPlayer add `new ItemPickupEvent(itemstack, i).call();` after `entityIn.onItemPickup(this, i);`
 
 Must of course be register in the ModInstances class.
